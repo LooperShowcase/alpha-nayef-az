@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+#ana7mar {
+  color: aliceblue;
+}
+#ana7mar {
+  background: red;
+  width: fit-content;
+}
+#header {
+  background-color: blueviolet;
+  width: fit-content;
+}
+table,
+tr,
+td,
+th {
+  border: solid 1px blue;
+  color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+ol {
+  color: white;
+}
+h2
